@@ -1,0 +1,42 @@
+{"resultados":{//Citas, pa salir y esas madres xdddddd
+  "0":{
+    "resultado":"Todo salio bien! Jamas olvidarás este día...",
+    "sucesos":"**{author}** fue a una cita con **{mention}**, pasarón un buen rato juntos. Fueron a la feria y **{author}** pudo conseguir un bonito peluche para **{mention}**, después de eso vieron una película en el cine, terminaron la cita con un helado y **{author}** lleva a **{mention}** a su casa y se despiden."
+  },
+  "1":{
+    "resultado":"No estuvo tan mal. Talvez deberian salir otro día.",
+    "sucesos":"**{author}** va a un café con **{mention}**. Estuvieron un buen par de horas charlando sobre sus vidas y sus gustos, podria decirse que en un 50% son parecidos. Sin embargo, la cita termina cuando a **{mention}** se le cae una taza de café caliente entre las piernas, llaman a su familia y a emergencias, intenta ir con **{mention}** pero su familia no le deja."
+  },
+  "2":{
+    "resultado":"No pasa nada, tal vez otro día.",
+    "sucesos":"**{author}** le pide una cita a **{mention}**, termina siendo rechazado. "
+  },
+  "3":{
+    "resultado":"Fue una cita bastante relajada, debo decir. Parece que si tienen futuro.",
+    "sucesos":"Cuando **{author}** apenas salió del edificio con **{mention}**, empezo a llover. Para no acabar tan rápido deciden ir a un bar. Este bar era relajante, pero solo servían café debido a que se acabó el alcohol. Durante este rato converzarón sobre sus vidas y escuchaban lofi desde la radio. Al final **{author}** como su casa estaba lejos, **{mention}** le dice que se quede esta noche en su casa."
+  },
+  "4":{
+    "resultado":"Fue un día muy maravilloso.",
+    "sucesos":"**{author}** decidió hace un picnic con **{mention}**. Durante este rato comieron unos sandwhiches y tomarón agua de sabor. Para terminar la noche **{author}** agarra una flor y lo pone en el cabello de **{mention}**. Fue muy lindo."
+  },
+  "5":{
+    "resultado":"La mejor cita que alguien podría tener? Probablemente",
+    "sucesos":"**{author}** invito a **{mention}** a acampar con el/ella. Fueron a uno de los bosques mas hermosos de la ciudad, pasaron la noche juntos, comiendo malvaviscos, dando caminatas, fue romantico. Al día siguiente, fueron a pescar y terminaron pescando muchos peces. Caminaron mas y exploraron nuevas zonas. Al día siguiente, se fueron a su casa. **{mention}** jamas olvidará esta noche"
+  },
+  "6":{
+    "resultado":"Algo meh, pero se la pasaron muy bien!",
+    "sucesos":"Debido a la pandemia, **{author}** y **{mention}** hicieron su cita en Minecraft. Juntos lograron progresar bastante, sin embargo, **{author}** muere por una araña y terminan perdiendose. Logran encontrarse, pero ya era tarde, las cosas de **{author}** se borraron. Al final de la cita, miraron el atardecer y se desconectaron."
+  },
+  "7":{
+    "resultado":"Eso fue mas dulce que cualquier dulce que tuviesen.",
+    "sucesos":"**{author}** fue a pedir dulces con **{mention}** en halloween, cada uno con sus mejores disfrazes. **{mention}** tenia menos dulces que **{author}** asi que el/ella decidio darle un cuarto de sus dulces para que ambos tuvieran una feliz noche. Al final, fueron a una colina a ver el atardecer mientras comian dulces, después de eso se quedaron dormidos ahi mientras **{author}** se acurrucaba con **{mention}**."
+  },
+  "8":{
+    "resultado":"Una noche inolvidable, mis felicitaciones!",
+    "sucesos":"**{author}** y **{mention}** quedaron en el centro comercial, **{author}** compro helados para los dos, jugaron en los arcades que habian ahi, se pasearon por las tiendas, **{author}** le compra a **{mention}** un peluche que el/ella quería. Al final fueron al cine y en el momentos menos esperado, se besaron. Regresaron a sus casa sin olvidar esta noche..."
+  },
+  "9":{
+    "resultado":"Un momento, esto se me hace familiar...",
+    "sucesos":"**{author}** fue con su padre a la cita que tenia con **{mention}**,**{author}** hablo sobre sus raros fetiches y exigencias para un/una novio/a. Al final de la cita, aparece un hombre vestido de pepino y enamora a **{mention}** con sus encantos. Una cita peculiar XD"
+  }
+}}

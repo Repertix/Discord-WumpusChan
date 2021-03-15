@@ -1,0 +1,591 @@
+{"roleplay":{//*Muestra su código*
+  "abrazar": {
+    "gifs": [
+      "https://i.pinimg.com/originals/02/7e/0a/027e0ab608f8b84a25b2d2b1d223edec.gif",
+      "https://media.discordapp.net/attachments/399448944889036801/719774332666118174/c3bd2e38-3909-49cd-bc22-98f7c807c340.gif",
+      "https://media1.tenor.com/images/195ec8f45c728b30e988b98764bd293c/tenor.gif?itemid=14102400",
+      "https://acegif.com/wp-content/uploads/anime-hug.gif",
+      "https://media1.tenor.com/images/c7efda563983124a76d319813155bd8e/tenor.gif?itemid=15900664",
+      "https://cdn.discordapp.com/attachments/726914935564665054/760304464996466758/hug_11.gif",
+      "https://media1.tenor.com/images/b8a6eed08e17e94dad7eada8c63b69f5/tenor.gif?itemid=17363491",
+      "https://media0.giphy.com/media/VHwgHhJLuWt0gjjUzf/200_d.gif",
+      "https://25.media.tumblr.com/2a3ec53a742008eb61979af6b7148e8d/tumblr_mt1cllxlBr1s2tbc6o1_500.gif",
+      "https://pa1.narvii.com/6634/4cd9beb6c7febe3b22778cb76da4cd76eb878c1e_hq.gif",
+      "https://media1.tenor.com/images/969f0f462e4b7350da543f0231ba94cb/tenor.gif?itemid=14246498",
+      "https://i.gifer.com/Y4Pm.gif",
+      "https://media0.giphy.com/media/QFPoctlgZ5s0E/200.gif",
+      "https://cdn.myanimelist.net/s/common/uploaded_files/1460993069-9ac8eaae8cd4149af4510d0fed0796bf.gif",
+      "https://i.gifer.com/2CZ4.gif",
+      "https://media2.giphy.com/media/ddGxYkb7Fp2QRuTTGO/source.gif",
+      "https://cdn.myanimelist.net/s/common/uploaded_files/1461001265-bd6ca0c499ca9c6065249953dfcf81c3.gif"
+      ],
+    "frases": [
+      "**{author}** ha abrazado a **{mention}**",
+      "**{author}** rodea cariñosamente con sus brazos a **{mention}**",
+      "**{author}** le da un buen confort a **{mention}**"
+      ]
+    },
+  "alimentar": {
+    "gifs": [
+      "https://media1.tenor.com/images/5634d502409f8ec76923481ee01d37e2/tenor.gif?itemid=15144611",
+      "https://media1.tenor.com/images/571da4da1ad526afe744423f7581a452/tenor.gif?itemid=11658244",
+      "https://media1.tenor.com/images/4b48975ec500f8326c5db6b178a91a3a/tenor.gif?itemid=12593977",
+      "https://media1.tenor.com/images/33cfd292d4ef5e2dc533ff73a102c2e6/tenor.gif?itemid=12165913",
+      "https://cdn.discordapp.com/attachments/726914935564665054/760303838749261824/00983458-259f-4ee2-9f6a-b0e2a344afac.gif",
+      "https://lh3.googleusercontent.com/proxy/LmD2_iPmOzsOJI_6drJ_18INoySMYRDkFjJh8pj6esl4ejWyG_rHEEkxJE1VDmb0FKXrYVJLkxsyRUPvG_SAO3TJV0a4lgi1NDvoaCHpGastarbWZOrmkEJSV7KNnd514v6xf8UYdWnrFxfCJqs6IAg",
+      "https://thumbs.gfycat.com/RawLightInvisiblerail-size_restricted.gif",
+      "https://media.moddb.com/images/groups/1/1/84/kanzashi-eating.gif",
+      "https://media1.tenor.com/images/6c12fa877586f8e92abe3c7133e98c62/tenor.gif?itemid=16013711",
+      "https://giffiles.alphacoders.com/207/207219.gif",
+      "https://i.chzbgr.com/full/8562848256/h1B5F4E9A/gotta-feed-my-waifu",
+      "https://thumbs.gfycat.com/EachMajesticBuffalo-size_restricted.gif",
+      "https://data.whicdn.com/images/37647808/original.gif",
+      "https://archive-media-0.nyafuu.org/c/image/1434/75/1434751100748.gif",
+      "https://media.moddb.com/images/groups/1/1/84/tumblr_lnc34oiTjU1qdd0yao1_500.gif"
+      ],
+    "frases": [
+      "**{author}** le da de su bocado a{mention}**",
+      "**{author}** esta alimentando a **{mention}**",
+      "**{author}** ha alimentado a **{mention}**"
+      ]
+    },
+  "bailar": {
+    "gifs": [
+      "https://i.pinimg.com/originals/ed/52/7e/ed527e2e52c51a4138d91c8824530d3e.gif",
+      "https://media1.tenor.com/images/8fdcda26512797826631511017a11f93/tenor.gif?itemid=9765182",
+      "https://imgur.com/zLB2uVf.gif",
+      "https://i.ya-webdesign.com/images/anime-dancing-gif-png-2.gif",
+      "https://i.pinimg.com/originals/81/df/5e/81df5e907f81dad1721f398ed7408deb.gif",
+      "https://cdn140.picsart.com/321921542060201.gif?to=min&r=640",
+      "https://media.tenor.com/images/27301b7d752800eb4550909a513e5554/tenor.gif",
+      "https://i.imgur.com/xe7YXop.gif",
+      "https://media4.giphy.com/media/vTqhQldEfAY6c/200.gif",
+      "https://64.media.tumblr.com/6365c83624552427f6de9c92e8e28b52/tumblr_nmud2yJw7D1unbsixo1_500.gifv",
+      "https://64.media.tumblr.com/0b7096c59ec779e46f4c6ece4b53cd65/2d2448c0483c0505-78/s400x600/4ea17c8e3969b88c8cfe14ebde96f5e32e706d2b.gifv",
+      "https://lh3.googleusercontent.com/proxy/yPG-8z0Ru8AGJqcQ5UM9HA1GMFa_16vHubhbdBAMmiVmJ0Lrxnash2V9rlQPFZZP_xPnEWpweKno0SlLS1qP",
+      "https://thumbs.gfycat.com/EquatorialDependentHammerkop-size_restricted.gif",
+      "https://data.whicdn.com/images/186021892/original.gif",
+      "https://thumbs.gfycat.com/BitesizedQuaintHamadryas-size_restricted.gif"
+      ],
+    "frases": [
+      "**{author}** brilla en la pista de baile!",
+      "**{author}** se ha puesto a bailar!",
+      "**{author}** se esta marcando unos pasos! ✨",
+      "**{author}** esta puliendo el suelo con sus pasos!",
+      "**{author}** no puede parar con el baile!"
+      ],
+      "frases2":[
+        "**{author}** baila con **{mention}**",
+        "**{author}** brilla en la pista con **{mention}**",
+        "**{author}** no para de bailar con **{mention}**",
+        "**{author}** baila de forma increíble junto a **{mention}**"
+      ]
+    },
+  "besar": {
+    "gifs": [
+      "https://media1.tenor.com/images/78095c007974aceb72b91aeb7ee54a71/tenor.gif?itemid=5095865",
+      "https://media3.giphy.com/media/G3va31oEEnIkM/giphy.gif",
+      "https://media1.tenor.com/images/f03f245e14fdfcacaf06318cdc667a03/tenor.gif?itemid=15111568",
+      "https://i.pinimg.com/originals/8c/ab/4f/8cab4f4c73547d077c56066461c40a5e.gif",
+      "https://media3.giphy.com/media/12VXIxKaIEarL2/giphy.gif",
+      "https://media1.tenor.com/images/f03f245e14fdfcacaf06318cdc667a03/tenor.gif?itemid=15111568",
+      "https://24.media.tumblr.com/5d51b3bbd64ccf1627dc87157a38e59f/tumblr_n5rfnvvj7H1t62gxao1_500.gif",
+      "https://i.pinimg.com/originals/e0/0f/31/e00f3104927ae27d7d6a32393d163176.gif",
+      "https://i.imgur.com/i1PIph3.gif",
+      "https://thumbs.gfycat.com/FondEvergreenIcterinewarbler-size_restricted.gif",
+      "https://media1.tenor.com/images/246db21ac752b5deb1495cb6134cdda8/tenor.gif?itemid=16454166",
+      "https://media.giphy.com/media/Xf4XDys7AOb8k/giphy.gif",
+      "https://i.gifer.com/6eXe.gif",
+      "https://pa1.narvii.com/6248/cae38662b21747d6247776d35b8d2db50944ef08_hq.gif",
+      "https://i.pinimg.com/originals/21/65/e6/2165e6adfd32a9390689b892dd165766.gif",
+      "https://data.whicdn.com/images/263429690/original.gif"
+      ],
+    "frases": [
+      "**{author}** le ha dado un beso a **{mention}**",
+      "**{author}** besa de forma cariñosa a **{mention}**",
+      "**{author}** le da un calido beso a **{mention}**",
+      "**{mention}** recibe un beso de **{author}**"
+      ]
+    },
+  "dormir": {
+    "gifs": [
+      "https://media.tenor.com/images/06da7cab765989327bac81de366d663f/tenor.gif",
+      "https://media1.tenor.com/images/1cdece239ec7d0fb33d2976d623f5e77/tenor.gif?itemid=4718185",
+      "https://i.pinimg.com/originals/a7/6c/8c/a76c8cb2735d2da97c2ff1a835e9a9fe.gif",
+      "https://pa1.narvii.com/6098/79970e11bf77998736e9e9cbc1601a5ef0228c8a_hq.gif",
+      "https://media1.tenor.com/images/c539cd4858e9b38e14ffb92e571c0344/tenor.gif?itemid=9838626",
+      "https://media.tenor.com/images/f63df3a69adf37d6e3d5237db73ba8a1/tenor.gif",
+      "https://media1.tenor.com/images/bc308ef7ed3753ae73f1ff047e14c554/tenor.gif?itemid=9920974",
+      "https://i.pinimg.com/originals/ce/12/90/ce1290d1994e2da8407d53903809d774.gif",
+      "https://acegif.com/wp-content/uploads/2020/07/anime-sleep.gif",
+      "https://media1.tenor.com/images/1c93c60b67226a12d374f41347610eb3/tenor.gif?itemid=11050566",
+      "https://media1.tenor.com/images/b190ed9c1cde30f00026433c8b5463ed/tenor.gif?itemid=9340393",
+      "https://data.whicdn.com/images/278776558/original.gif",
+      "https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4oa8joxN4d65hmFMp22bNTIUW3ufQExKZv-GKL4AdqgU",
+      "https://media1.tenor.com/images/a6e1270e427d56ce71624e964fe1e468/tenor.gif?itemid=12342160",
+      "https://i.pinimg.com/originals/a7/6c/8c/a76c8cb2735d2da97c2ff1a835e9a9fe.gif",
+      "https://data.whicdn.com/images/145617644/original.gif",
+      "https://cdn140.picsart.com/258900357027202.gif?to=min&r=1024"
+      ],
+    "frases": [
+      "Shhhh... **{author}** esta tomando una siesta",
+      "**{author}** esta durmiendo! uwu",
+      "**{author}** toma una relajante siesta"
+      ]
+    },
+  "enojado": {
+    "gifs": [
+      "https://i.pinimg.com/originals/b4/b7/5f/b4b75fa855f1bd8c5fa99a617472b3b4.gif",
+      "https://media1.tenor.com/images/2f198dc24f638fc9f16776c8ebd183fd/tenor.gif?itemid=14682313",
+      "https://media1.tenor.com/images/66c32f7c84340c36ab34ea8911e81b2f/tenor.gif?itemid=14108774",
+      "https://i.pinimg.com/originals/b3/96/e0/b396e0fd1ced8ad36545a9094c5218ad.gif",
+      "https://media1.tenor.com/images/2f198dc24f638fc9f16776c8ebd183fd/tenor.gif?itemid=14682313",
+      "https://i.pinimg.com/originals/19/97/28/199728c74eb00a12d2d2c8a1ad440574.gif",
+      "https://media1.tenor.com/images/66c32f7c84340c36ab34ea8911e81b2f/tenor.gif?itemid=14108774",
+      "https://media0.giphy.com/media/U77FFxuyoIPvHEIgkq/giphy.gif",
+      "https://i.pinimg.com/originals/c1/18/28/c118281cf06513a78e2fdc731db48c1b.gif",
+      "https://media1.tenor.com/images/981ee5030a18a779e899b2c307e65f7a/tenor.gif?itemid=13159552",
+      "https://media0.giphy.com/media/FAI5TtHYYEges/giphy.gif",
+      "https://media2.giphy.com/media/BcSfi7jRHsLV6/source.gif",
+      "https://thumbs.gfycat.com/DistantSlimIberianbarbel-size_restricted.gif",
+      "https://media0.giphy.com/media/9tVXAuRGXB2y9tB5Qg/giphy.gif",
+      "https://thumbs.gfycat.com/SparklingObedientGoldfinch-size_restricted.gif",
+      "https://media1.tenor.com/images/1eada8b2466daadaeada0d13061eef7f/tenor.gif?itemid=14086662"
+      ],
+    "frases": [
+      "**{author}** no esta de muy buenas",
+      "**{author}** esta furioso!",
+      "**{author}** esta al rojo vivo! 😡",
+      "**{author}** no tiene nada de animo!",
+      "**{author}** esta muy enojado! >:c"
+      ]
+    },
+  "golpear": {
+    "gifs": [
+      "https://tenor.com/view/titan-attack-on-titans-eren-yeager-eren-punch-gif-14301780",
+      "https://media1.tenor.com/images/6834932465e2659dc5b1ee38dfd42b44/tenor.gif?itemid=14615839",
+      "https://media0.giphy.com/media/AlsIdbTgxX0LC/giphy.gif",
+      "https://i.pinimg.com/originals/d7/c3/0e/d7c30e46a937aaade4d7bc20eb09339b.gif",
+      "https://i.gifer.com/A6zO.gif",
+      "https://i.imgur.com/bRWRAcE.gif",
+      "https://i.pinimg.com/originals/d4/17/ce/d417ce25489868ae4bf177de73308aa5.gif",
+      "https://i.kym-cdn.com/photos/images/newsfeed/001/856/131/1af.gif",
+      "https://media1.tenor.com/images/4e1c688f7666adb0f68bb4995e47e0ef/tenor.gif?itemid=16634439",
+      "https://media.tenor.com/images/1175cdf430e96e475d39777bced6798d/tenor.gif",
+      "https://media1.tenor.com/images/ee3f2a6939a68df9563a7374f131fd96/tenor.gif?itemid=14210784",
+      "https://media1.tenor.com/images/9117e543eb665a49ae73fd960c5f7d57/tenor.gif?itemid=5205813",
+      "https://media4.giphy.com/media/fTbJkvUNa9Hzy/200_d.gif",
+      "https://media3.giphy.com/media/3e19AnHL81rMs/giphy.gif",
+      "https://media1.tenor.com/images/35cb8822167474f936be18c83899a171/tenor.gif?itemid=12560063"
+      ],
+    "frases": [
+      "**{mention}** recibe golpes criticos de **{author}**",
+      "**{author}** ha golpeado a **{mention}**",
+      "**{author}** golpea sin parar a **{mention}**"
+      ]
+    },
+  "llorar": {
+    "gifs": [
+      "https://media1.tenor.com/images/b88fa314f0f172832a5f41fce111f359/tenor.gif?itemid=13356071",
+      "https://media1.tenor.com/images/98466bf4ae57b70548f19863ca7ea2b4/tenor.gif?itemid=14682297",
+      "https://i.pinimg.com/originals/b1/ae/3c/b1ae3cd36795f45af901e3d07df50667.gif",
+      "https://media2.giphy.com/media/ROF8OQvDmxytW/200.gif",
+      "https://media.discordapp.net/attachments/399448944889036801/586590500468031508/cry_10.gif",
+      "https://media.discordapp.net/attachments/399448944889036801/712057806265778186/desconocido.gif",
+      "https://cdn.discordapp.com/attachments/726914935564665054/760304463071936572/8T101PL.gif",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDQBOMW_fS-hYjtsCaxGO-NADAUP7uk6vl0w&usqp=CAU",
+      "https://em.wattpad.com/1be7e39323745546bd8c8457822c9baf1657e380/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4751446e7258424f736e733750673d3d2d31312e313438386430343439613932636164353338373637383339323135372e676966",
+      "https://media1.tenor.com/images/7ef999b077acd6ebef92afc34690097e/tenor.gif?itemid=10893043",
+      "https://thumbs.gfycat.com/DeliriousExcitableAmericanquarterhorse-size_restricted.gif",
+      "https://64.media.tumblr.com/5c4078b30564d21718c9b3d4ec233105/tumblr_oguirl6lGA1u7ltf6o1_400.gifv",
+      "https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUCG8p-X1WhZLiR4h-oxkqQeBRBDdkdOjQt6eDACqauhK_uWlQZkz0hJ_uRHJydU63Q",
+      "https://pa1.narvii.com/5729/7239144f9492a477092d05271e10657b9e1a335b_00.gif",
+      "https://i.kym-cdn.com/photos/images/original/001/387/917/2cd.gif"
+      ],
+    "frases": [
+      "**{author}** se ha puesto a llorar! :c",
+      "**{author}** se le esta saliendo las lagrimas!",
+      "**{author}** se ha puesto de malas",
+      "**{author}** esta triste! T_T"
+      ]
+    },
+  "reir": {
+    "gifs": [
+      "https://media1.tenor.com/images/ad4804e880c2edcecbb79217b479610a/tenor.gif?itemid=10903422",
+      "https://media1.tenor.com/images/e62fc9360b184a7dd8a0e786d5d594fc/tenor.gif?itemid=12381387",
+      "https://i.pinimg.com/originals/fb/80/a2/fb80a2dd4fdb86c6eeee94125f23c161.gif",
+      "https://media3.giphy.com/media/zHVDvEgSqIclW/200.gif",
+      "https://i.gifer.com/Z1I2.gif",
+      "https://i.kym-cdn.com/photos/images/original/001/114/563/dc1.gif",
+      "https://i.imgur.com/ZsEe1CW.gif",
+      "https://pa1.narvii.com/6089/c888a63f9155a37388ebb85e81ec0fae0650195d_hq.gif",
+      "https://64.media.tumblr.com/be612bb0cb4daa9cd82f7cdc950ea2a2/tumblr_inline_p246obPVLa1sqh1mk_540.gif",
+      "https://media2.giphy.com/media/dWrnYmDucWhDvkbLF6/giphy.gif",
+      "https://thumbs.gfycat.com/ImaginativeTepidDormouse-size_restricted.gif",
+      "https://media1.giphy.com/media/9tfNjaoyJv7Gw/giphy.gif",
+      "https://64.media.tumblr.com/0627762736c364f024a0bdaf3f20891d/tumblr_inline_p246rwMugu1sqh1mk_540.gif",
+      "https://media1.tenor.com/images/fb80a2dd4fdb86c6eeee94125f23c161/tenor.gif?itemid=5060962",
+      "https://data.whicdn.com/images/280502932/original.gif"
+      ],
+    "frases": [
+      "**{author}** empieza a reir!",
+      "**{author}** se rie a carcajadas",
+      "**{author}** se muere de la risa!",
+      "A **{author}** le esta dando mucha risa!"
+      ]
+    },
+  "acariciar": {
+    "gifs": [
+      "https://media1.tenor.com/images/f41b3974036070fd1c498acf17a3a42e/tenor.gif?itemid=14751753",
+      "https://media1.tenor.com/images/0d2fb6ad9a6d71c3a018c0b37ffca50b/tenor.gif?itemid=16121044",
+      "https://media1.tenor.com/images/d9b480bcd392d05426ae6150e986bbf0/tenor.gif?itemid=9332926",
+      "https://media1.tenor.com/images/cd380e73b2577f33de57e26a0346399a/tenor.gif?itemid=4615941",
+      "https://media.discordapp.net/attachments/726914935564665054/760304465411833856/B1FqkJKPW.gif",
+      "https://cdn.discordapp.com/attachments/726914935564665054/760304463583510547/ryV2k1tP-.gif",
+      "https://cdn.discordapp.com/attachments/726914935564665054/760304464996466758/hug_11.gif",
+      "https://media2.giphy.com/media/N0CIxcyPLputW/giphy.gif",
+      "https://thumbs.gfycat.com/NauticalDampJerboa-size_restricted.gif",
+      "https://66.media.tumblr.com/d743a5e5ecc65be5cb6ac8de7978fb22/tumblr_pfyit1ofSu1th206io1_500.gif",
+      "https://i.kym-cdn.com/photos/images/original/001/286/811/7c7.gif",
+      "https://i.pinimg.com/originals/2e/27/d5/2e27d5d124bc2a62ddeb5dc9e7a73dd8.gif",
+      "https://i.imgur.com/0znUWqT.gif",
+      "https://media1.giphy.com/media/3o84U646D0UUxon0Xe/source.gif",
+      "https://66.media.tumblr.com/84089922967b096420e340b32b9d97a6/tumblr_p679qztw1p1srt81jo3_500.gif"
+      ],
+    "frases": [
+      "**{author}** acaricia suavemente a **{mention}**",
+      "**{author}** extiende su mano sobre **{mention}** para acariciarlo/a"
+      ]
+    },
+  "susurrar": {
+    "gifs": [
+      "https://media1.tenor.com/images/14df1aca5568938d52b9e82efed64498/tenor.gif?itemid=17372948",
+      "https://media1.tenor.com/images/4b7135e1a729a2996ba95e8dc1722125/tenor.gif?itemid=5620572",
+      "https://media1.tenor.com/images/9213f977dba42d60d15661cb8edc4218/tenor.gif?itemid=15757087",
+      "https://data.whicdn.com/images/126910947/original.gif",
+      "https://media1.giphy.com/media/jC1stHse1iqKQ/200.gif",
+      "https://media1.tenor.com/images/4b7135e1a729a2996ba95e8dc1722125/tenor.gif?itemid=5620572",
+      "https://media1.tenor.com/images/afeaa56c7ec52e4c78f5cee97109e359/tenor.gif?itemid=12415244",
+      "https://i.pinimg.com/originals/d9/1b/ed/d91bedc5ae5f60b51fddef33fc11f8bf.gif",
+      "https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4UceIq64jOsmOo8fHkljyEvfdb1sEc-rVceXGlQ2eRJCceHB6W-QGXgfsmn78kJaem5xor4A_0BhW9J_foSPVp1JJE0GvYkCR7AHyOHcwiQGVNQep4eJIqnSNfHvv_xqC7uokLZ-7_5rIWrgnNoXdE0xmjjYSiLSbO7GSXDTOloUZmQjqE6xEZQkukJg_Sepbmbi5VQRYSaAjK3V5UIHr_c",
+      "https://data.whicdn.com/images/287246637/original.gif",
+      "https://pa1.narvii.com/6479/b34c491415111c229c75ce437e18223217f28c06_hq.gif",
+      "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0bb3d5e-4397-4447-9bb2-d936cfa49017/d2puh83-06fab5cd-38e3-4688-a3b0-97e6037c8838.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYTBiYjNkNWUtNDM5Ny00NDQ3LTliYjItZDkzNmNmYTQ5MDE3XC9kMnB1aDgzLTA2ZmFiNWNkLTM4ZTMtNDY4OC1hM2IwLTk3ZTYwMzdjODgzOC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.sMWIUUHHTg05Phy21faQijxuI6nlu2vQTv5EsBzfG-U"
+      ],
+    "frases": [
+      "**{author}** susurra con cuidado a **{mention}**",
+      "**{author}** le cuenta algo en secreto a **{mention}**",
+      "**{author}** parece ocultar algo con **{mention}**",
+      "**{author}** susurra con cuidado a **{mention}**"
+      ]
+    },
+  "sonrojar": {
+    "gifs": [
+      "https://thumbs.gfycat.com/AmpleSoreElk-size_restricted.gif",
+      "https://66.media.tumblr.com/6a3e50286b6f45fd74c515b66f81e471/tumblr_ni8yoi6qLO1u55xnmo4_500.gifv",
+      "https: //i.imgur.com/9cAHJc7.gif",
+      "https://i.pinimg.com/originals/b7/4a/5b/b74a5b128b5d65ea1fdb9090c0b3f295.gif",
+      "https://media1.tenor.com/images/f62cae32b30d364bf0a8a1e7432c2ddf/tenor.gif?itemid=10198325",
+      "https://i.pinimg.com/originals/2a/3a/02/2a3a020417deca849d7cb6218edf75fa.gif",
+      "https://media.tenor.com/images/75936b8b93269bd293bd184eb209e358/tenor.gif",
+      "https://i.gifer.com/79GJ.gif",
+      "https://media.tenor.com/images/f45f5c5fd72dd7c9ff50976e2bc7133c/tenor.gif",
+      "https://cdn180.picsart.com/232044734053202.gif?to=min&r=480",
+      "https://giffiles.alphacoders.com/359/35986.gif",
+      "https://media1.tenor.com/images/e0dddee577a142b91941d6642f98321c/tenor.gif?itemid=5001273",
+      "https://25.media.tumblr.com/13fa27ed9aa11a9e3619289c16ad8a10/tumblr_myizl8UUWH1qbmzejo1_500.gif",
+      "https://i.pinimg.com/originals/02/97/77/0297773805d39c740b7f0a45a90b9050.gif",
+      "https://media1.giphy.com/media/3JpQCZwHwCdu4bOiJu/200.gif"
+      ],
+    "frases": [
+      "**{author}** se puso rojito! ewe",
+      "**{author}** parece tener verguenza",
+      "**{author}** se sonroja!",
+      "**{author}** parece estar poniendose rojo! e.e"
+      ]
+    },
+  "cachetear": {
+    "gifs": [
+      "https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUFk2Ae92E1tAeAfjk_pGLpKnHfWiikue5-m1fMe8_1TjRXlLKNwbrQTs1EfUN5ol3A",
+      "https://i.pinimg.com/originals/46/b0/a2/46b0a213e3ea1a9c6fcc060af6843a0e.gif",
+      "https://i.imgur.com/fm49srQ.gif",
+      "https://media1.tenor.com/images/f619012e2ec268d73ecfb89af5a8fb51/tenor.gif?itemid=8562186",
+      "https://media1.tenor.com/images/b6d8a83eb652a30b95e87cf96a21e007/tenor.gif?itemid=10426943",
+      "https://media2.giphy.com/media/Gf3AUz3eBNbTW/200.gif",
+      "https://64.media.tumblr.com/00af342d3838fed0f978b62ff496dfea/tumblr_phizajqDcb1wj1nn0o1_400.gifv",
+      "https://media1.giphy.com/media/lSDqu7IbMqMiQvCjjN/giphy.gif",
+      "https://i.chzbgr.com/full/8574231808/h50C257DD/oneslap-man",
+      "https://i.imgur.com/oOCq3Bt.gif",
+      "https://pa1.narvii.com/5728/7b796b9cd6a6f44ef6b0aabee0d28d1351fdc7be_hq.gif",
+      "https://i.kym-cdn.com/photos/images/newsfeed/001/126/001/997.gif",
+      "https://i.kym-cdn.com/photos/images/newsfeed/001/093/848/033.25067",
+      "https://media.giphy.com/media/tMIWyF5GUrWwM/giphy.gif",
+      "https://i.gifer.com/7beD.gif"
+      ],
+    "frases": [
+      "**{author}** le ha dado una cachetada a **{mention}**",
+      "**{author}** no tuvo piedad con la cara de **{mention}**",
+      "**{author}** le dio un cachetadón a **{mention}**",
+      "**{mention}** recibió una cachetada de **{author}**"
+      ]
+    },
+  "correr": {
+    "gifs": [
+      "https://pa1.narvii.com/6316/1aa500ace78163c503a0f573f3330a41e10f8abb_hq.gif",
+      "https://i.kym-cdn.com/photos/images/original/001/081/817/909.gif",
+      "https://thumbs.gfycat.com/WealthyAgedAlligatorsnappingturtle-size_restricted.gif",
+      "https://media1.tenor.com/images/44a8d29788a7e898b67ade8a0086f294/tenor.gif?itemid=8540976",
+      "https://thumbs.gfycat.com/ImpureDismalEgret-size_restricted.gif",
+      "https://i.pinimg.com/originals/0c/e8/be/0ce8bec2543d81ba65eefd309f0f0c5b.gif",
+      "https://media.tenor.com/images/7a2ab7bd487ef2f0da1ec8d711c75acc/tenor.gif",
+      "https://media1.tenor.com/images/e99d0a0812b2a5481c3d98d51950814d/tenor.gif?itemid=6181817",
+      "https://media.discordapp.net/attachments/399448944889036801/600721658436911106/run3.gif",
+      "https://i.pinimg.com/originals/c3/76/01/c376012492fdf168beb84037d74b2587.gif",
+      "https://i.kym-cdn.com/photos/images/original/001/117/650/bfb.gif",
+      "https://media1.tenor.com/images/151a5c1d0f8434a1d42fbcecfed3e332/tenor.gif?itemid=9362305",
+      "https://media1.tenor.com/images/68a37890faad8bb2a2a44044405c7b20/tenor.gif?itemid=10734946",
+      "https://media1.tenor.com/images/958fc9ad272bcd1eccd0226416c69341/tenor.gif?itemid=13437397",
+      "https://media1.tenor.com/images/a9af231842139014c545b752673ef92d/tenor.gif?itemid=6138273"
+      ],
+    "frases": [
+      "**{author}** sale corriendo!",
+      "**{author}** huye de esta situación!",
+      "Abran paso! **{author}** se va corriendo!!!"
+      ]
+    },
+  "aplaudir": {
+    "gifs": [
+      "https://media.tenor.com/images/88e95a6671be4a015fa11b10448f6a78/tenor.gif",
+      "https://i.gifer.com/O128.gif",
+      "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1151233-3650-45b0-aca8-bbbd0a59253e/dahpi6h-4a6fd275-4ea4-4ce5-a8d4-ed259bad174b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYzExNTEyMzMtMzY1MC00NWIwLWFjYTgtYmJiZDBhNTkyNTNlXC9kYWhwaTZoLTRhNmZkMjc1LTRlYTQtNGNlNS1hOGQ0LWVkMjU5YmFkMTc0Yi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.wvCQJ7J0Jf0KA3zUcYoPzl1f1DaaUKQn42sTe5uLRE4",
+      "https://i.pinimg.com/originals/d0/5b/2a/d05b2aad6a19944ba378d8e365851f00.gif",
+      "https://thumbs.gfycat.com/RightBigBluetickcoonhound-size_restricted.girl",
+      "https://media.tenor.com/images/ed9272c81f685d9c3de214333ee08ced/tenor.gif",
+      "https://media.tenor.com/images/07908bbd4b8336d826c733de9b2f2988/tenor.gif",
+      "https://media1.tenor.com/images/3a79f7bc177a52f81b5e858066b3e70a/tenor.gif?itemid=7820542",
+      "https://media1.tenor.com/images/efed02e6e183d25013e81cfe044575ef/tenor.gif?itemid=5115515",
+      "https://i.gifer.com/32Sw.gif",
+      "https://25.media.tumblr.com/tumblr_liy3mjbIGM1qiunvpo1_500.gif",
+      "https://media1.tenor.com/images/2da352df3f4b2a9419198c58f539073b/tenor.gif?itemid=9582213",
+      "https://media.tenor.com/images/49537d42c58c8f689d049977388b78c5/tenor.gif",
+      "https://media.tenor.com/images/49537d42c58c8f689d049977388b78c5/tenor.gif",
+      "https://media1.tenor.com/images/bf0b3f0318b4b72f2bbdc61f9ffa1190/tenor.gif?itemid=17844315",
+      "https://media.tenor.com/images/3e3804021284067b95c4820f7a88d031/tenor.gif"
+      ],
+    "frases": [
+      "**{author}** felicita a **{mention}**!",
+      "Muy bien, **{mention}**, **{author}** te esta mandando felicitaciones",
+      "**{author}** le aplaude a **{mention}**",
+      "Bien hecho, **{mention}**, **{author}** te aplaude!"
+      ]
+    },
+  "baka": {
+    "frases": [
+      "**{author}** le dice **baka** a**{mention}**",
+      "**{author}** le grita **baka** a **{mention}**!",
+      "**{author}** no se aguanta y le dice **baka** a **{mention}**",
+      "**{mention}** es un/una **baka**, segun **{author}**"
+      ],
+    "gifs": [
+      "https://media1.tenor.com/images/3348f40d0b580479f06a9b08dff247ac/tenor.gif?itemid=12414850",
+      "https://media1.tenor.com/images/18774d8725297c4e7a69132a9b959afc/tenor.gif?itemid=13451344",
+      "https://media1.tenor.com/images/88819a7e457c5dc3f124b9d6bb720edc/tenor.gif?itemid=5586968", "https://media1.tenor.com/images/406ef128433bb6b0d62ba092ed5ec67d/tenor.gif?itemid=14954653",
+        "https://i.pinimg.com/originals/c1/ee/6a/c1ee6a496c38c0ffb457b387f2aaa4c8.gif",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/028/204/4d9.gif"
+        
+      ]
+    },
+    "confuso": {
+      "frases": [
+        "**{author}** esta confuso/a",
+        "**{author}** no tiene idea de lo que esta sucediendo",
+        "**{author}** esta confudido/a"
+      ],
+      "gifs": [
+        "https://media1.tenor.com/images/19c0276504722ede7fbee0ec261a3c53/tenor.gif?itemid=14088532",
+        "https://i.pinimg.com/originals/e7/65/e0/e765e06eb21f7bdd41eb6605222c4f60.gif",
+        "https://media1.tenor.com/images/c28cf58b51b74120d2f79f729be6b5de/tenor.gif?itemid=11866636",
+        "https://media1.tenor.com/images/0260c6b279f7f3052cf0b1dc4563ba60/tenor.gif?itemid=11158941",
+        "https://i.imgur.com/xTY4jyk.gif",
+        "https://steamuserimages-a.akamaihd.net/ugc/96105795498170735/3045F38DAF1EAFF1D09EF6CF2E8D5E4F0E36D8CF/",
+        "https://media0.giphy.com/media/fmXgCpO3IhesE/source.gif",
+        "https://media.tenor.com/images/6181bfe72d796ef135b7dc37acac8b99/tenor.gif",
+        "https://media1.tenor.com/images/d042aa3208011be30caba9d0cd7bf498/tenor.gif?itemid=15583158",
+        "https://i.pinimg.com/originals/e7/65/e0/e765e06eb21f7bdd41eb6605222c4f60.gif",
+        "https://4.bp.blogspot.com/-MddR4PHVKjs/WJYxgJvTfEI/AAAAAAAAAQo/nTTI4YZG_cgEAdv2PHXqZ-MLost2PA6wwCLcB/s1600/anime%2Bgif%2B9.gif",
+        "https://media1.tenor.com/images/56ba88207bc9f85fbf8e90435caa6f7c/tenor.gif?itemid=17039796",
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/98746bfa-8e6d-45a6-b312-e999cfdf1025/ddi6yp2-34f055c2-7f59-4c7a-b744-668224e3d854.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOTg3NDZiZmEtOGU2ZC00NWE2LWIzMTItZTk5OWNmZGYxMDI1XC9kZGk2eXAyLTM0ZjA1NWMyLTdmNTktNGM3YS1iNzQ0LTY2ODIyNGUzZDg1NC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.GzibTqoH8_Q_UjcLstypcAqIFpbVytrw1JE_QnpKbCU",
+        "https://i.pinimg.com/originals/1f/3b/d3/1f3bd3c4e5d1308653aced10f8c86b8c.gif",
+        "https://i.kym-cdn.com/photos/images/original/001/112/196/cc8.gif",
+        "https://64.media.tumblr.com/190a849541a6eacd69c36f92be309938/tumblr_oswdr1lj4r1wn2b96o1_400.gifv"
+      ]
+    },
+    "comer": {
+      "frases": [
+        "**{author}** esta comiendo",
+        "**{author}** esta alimentandose",
+        "**{author}** esta comiendo su merienda"
+      ],
+      "gifs": [
+        "https://media1.tenor.com/images/774e26457682a362d5b30a969c50dd2b/tenor.gif?itemid=12390146",
+        "https://media1.tenor.com/images/5f14a463c1bcfcb60f2140c508c928fe/tenor.gif?itemid=14083073",
+        "https://media1.giphy.com/media/ViC6liI1iz3TGxb4po/giphy.gif",
+        "https://media1.giphy.com/media/xYy3O2fGTfflS/giphy.gif",
+        "https://media1.giphy.com/media/118Ue8iVVEYR5S/giphy.gif",
+        "https://media1.tenor.com/images/fd2aebb60f86eaa425637334b0f022eb/tenor.gif?itemid=13666001",
+        "https://i.pinimg.com/originals/55/4e/e0/554ee0b2bdf436998cd7c2f25b801cfb.gif",
+        "https://i.pinimg.com/originals/49/c6/21/49c6215332e506643a3862905883a6bd.gif",
+        "https://thumbs.gfycat.com/BoldWillingBagworm-small.gif",
+        "https://64.media.tumblr.com/73a42618ee2eb22fb0929e7b71ed06de/tumblr_mexluw696d1ru838ko1_500.gifv",
+        "https://media1.tenor.com/images/7192a8b3f99fea9e4d5a35d82883fcb8/tenor.gif?itemid=16634424",
+        "https://i.pinimg.com/originals/18/f4/05/18f405da42c385c522f975f0ac6b902c.gif",
+        "https://media0.giphy.com/media/l3vR2MFXRe1me3dmM/giphy.gif",
+        "https://media.tenor.com/images/18cb38866d0d651a0379ac40e24678e9/tenor.gif",
+        "https://steamuserimages-a.akamaihd.net/ugc/853856723057843567/6051B44F58BE2D935DD4CECC3743E875A121F92A/",
+        "https://media2.giphy.com/media/hXYlYBixtHEFq/giphy.gif"
+      ]
+    },
+    "beber":{
+      "frases":["**{author}** esta tomando un refresco",
+      "**{author}** se ha hecho un té, deja que se lo acabe.",
+      "**{author}** esta bebiendo",
+      "**{author}** se toma un vaso de agua fresca. Provecho!",
+      "**{author}** se toma un juguito"],
+      "gifs":["https://media1.tenor.com/images/d6ccd130cd4b3cdeb60bb0b5ded4088a/tenor.gif?itemid=14884453",
+      "https://media1.tenor.com/images/14b2605352bdae3d6b8039057acb5931/tenor.gif?itemid=5971592","https://media1.giphy.com/media/BJLCcNzwaZ344/giphy.gif",
+      "https://66.media.tumblr.com/b2b864c04204e1ed9fd2823b484a2e3e/tumblr_ontkywr2HD1vhw4rho1_400.gifv","https://i.imgur.com/uLCe98X.gif",
+      "https://data.whicdn.com/images/80366348/original.gif",
+      "https://i.pinimg.com/originals/fc/c7/2b/fcc72b0922aec85c6955f2b946c696f9.gif",
+      "https://media1.tenor.com/images/875a3d41db75127fbe4446d03ff84923/tenor.gif?itemid=11166531",
+      "https://33.media.tumblr.com/3a91b1373a2ff824f774bc703bbefa24/tumblr_mtymn2RJdm1s515j6o1_500.gif",
+      "https://honeysanime.com/wp-content/uploads/2015/08/madara-natsume-yuujinchou-capture.gif",
+      "https://i.chzbgr.com/full/8796570624/h67D89C13/im-done-here",
+      "https://cdn55.picsart.com/174469697000202.gif?to=min&r=1024",
+      "https://i2.wp.com/drunkenanimeblog.com/wp-content/uploads/2019/12/anime-girl-drinking.gif?resize=320%2C284&ssl=1",
+      "https://media1.tenor.com/images/561c01f2b1cbf9d4801ce73ed5eb70b8/tenor.gif?itemid=17812287",
+      "https://i.kym-cdn.com/photos/images/newsfeed/001/750/043/d0a.gifv",
+      "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwN-kWcGNyAb7QytVRUU1Lww"]
+    },
+    "animo":{
+      "frases":["**{author}** esta de buenas",
+      "**{author}** esta muy contento!",
+      "**{author}** esta con mucho animo!!!"],
+      "gifs":["https://media1.tenor.com/images/7949fa1956a91740a5a7dbd488cbc572/tenor.gif?itemid=14114223","https://media1.tenor.com/images/63bfef9c1e6bb6713a17d7bf096e0e11/tenor.gif?itemid=12004197",
+             "https://media1.tenor.com/images/4c4b4664f768a110766efb1cfe7c8fe1/tenor.gif?itemid=14110311","https://imagenes.comugamers.com/images/2019/01/03/Anime-Happy-Birthday-Gif-9.gif",
+             "https://media.giphy.com/media/3Ugq7dfV3nQDC/giphy.gif",
+             "https://media1.tenor.com/images/00619a3d69a75517f6ece57e9f16c5f3/tenor.gif?itemid=17803413",
+             "https://i.pinimg.com/originals/0f/98/47/0f9847a5f258da9a3bdccc3860f91eb5.gif",
+             "https://media2.giphy.com/media/l3vR5rb4e9y5I7csw/giphy.gif",
+             "https://i0.wp.com/conoce-japon.com/wp-content/uploads/2019/01/Happy-Anime-GIF.gif?ssl=1",
+             "https://thumbs.gfycat.com/AlienatedGoodDrafthorse-size_restricted.gif",
+             "https://media3.giphy.com/media/lPXNUrANOsMrTuK8Dw/giphy.gif",
+             "https://i.imgur.com/FKMACgP.gif",
+             "https://i.pinimg.com/originals/14/7b/ba/147bba012d5781ead622f9c2a4a02be2.gif",
+             "https://media1.tenor.com/images/712a8845dbea5f4b6a7824beeecbe79f/tenor.gif?itemid=15941742",
+             "https://em.wattpad.com/302c4f19408b697eda99a23e9f6251ad49951a10/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6f6678644e41647030306a704d413d3d2d3333353138343936332e313438376666623438663232626239633236313030393837383132332e676966",
+             "https://i.imgur.com/Mzh3ZVE.gif"]
+    },
+    "piano":{
+      "gifs":[
+      "https://i.pinimg.com/originals/b5/d3/1b/b5d31bc067002a9f34166be60d419e18.gif",
+      "https://media1.tenor.com/images/2b730a7133e1681f86854fa49216c78d/tenor.gif?itemid=10181956",
+      "https://i.pinimg.com/originals/d0/5d/d6/d05dd65d6e041e7b6efb7e0865274870.gif",
+      "https://media1.tenor.com/images/c81234d8b931e6977cb0809a8f044a97/tenor.gif?itemid=8933512",
+      "https://i.gifer.com/Wbi7.gif",
+      "https://media1.tenor.com/images/431777f77976afbdd3d7e37155ff3ada/tenor.gif?itemid=16376804",
+      "https://i.pinimg.com/originals/ba/db/16/badb167bc9286367e18c4bf32ba5f1d4.gif",
+      "https://cdn79.picsart.com/196108165000202.gif?to=min&r=1024",
+      "https://lh3.googleusercontent.com/proxy/0kSz3ueV9_CL2tw6j1boA6H0DKMQnKeHakCSbZvF1kX7UW3b-KCZjbm4gJa5ZfUOcgOzNAh01V0aX88jq4UA",
+      "https://i.gifer.com/3IgZ.gif",
+      "https://data.whicdn.com/images/272018983/original.gif",
+      "https://pa1.narvii.com/6187/b08cd8ae73d2917c4805c43d0b49e656f0c96bc1_hq.gif",
+      "https://media1.tenor.com/images/7f7edded22b0bb2d4d6bc8de6174eb7f/tenor.gif?itemid=8933510",
+      "https://data.whicdn.com/images/152207464/original.gif",
+      "https://entresabanasyalmohadas.files.wordpress.com/2017/08/nodame.gif?w=500",
+      "https://media1.tenor.com/images/64bcc82c5cc8c9f280fa3fe7d1693cf3/tenor.gif?itemid=11684454",
+      "https://i.pinimg.com/originals/13/13/2c/13132cc6bc653a6e569f8ee8517ddafd.gif"
+    ],
+    "frases":["**{author}** toca el piano", "**{author}** toca una melodía"]
+    },
+    "asustado":{
+      "frases":["**{author}** esta asustado/a", "A **{author}** se le puso los pelos de punta!", "**{author}** tiene escalofrios..."],
+      "gifs":["https://media1.tenor.com/images/83b2f65b1a18b4335e21871d62eddebc/tenor.gif?itemid=16038361",
+      "https://media1.tenor.com/images/eca53bab25127bdda6179fd32d986d57/tenor.gif?itemid=13451251",
+      "https://media1.tenor.com/images/3d1e90964da8453e060865f8f4fb729a/tenor.gif?itemid=14132802",
+      "https://media.tenor.com/images/e3c2bee74806139d56d7c08b2b15d333/tenor.gif",
+      "https://media1.tenor.com/images/ee5951b2fd095750b7fcf37c8ae386be/tenor.gif?itemid=10282001",
+      "https://media1.tenor.com/images/d3b801c1ba7d60e7b46259a4ab591d0b/tenor.gif?itemid=14086678",
+      "https://i.pinimg.com/originals/fb/37/41/fb3741a9977e769bd365fd6e1b835cdc.gif",
+      "https://media1.tenor.com/images/d5b55fbfb075cf837d7bd6d94fe45801/tenor.gif?itemid=13968151",
+      "https://i.pinimg.com/originals/41/13/86/4113860d26c424de44262e71a13a4e63.gif",
+      "https://media.tenor.com/images/55c089a4480108dde4b5bec69b48be5b/tenor.gif",
+      "https://media2.giphy.com/media/HkUey32gK29RS/200_d.gif",
+      "https://media1.tenor.com/images/e0e0342a4d3d9524ba56b732cd0f81ac/tenor.gif?itemid=9035038",
+      "https://i.pinimg.com/originals/df/16/6c/df166c6f0efa79eb23609dfd6ad52fc4.gif",
+      "https://media.tenor.com/images/37060aa3e3c039818236e75445edefcd/tenor.gif",
+      "https://i.gifer.com/PlS5.gif"]
+    },
+    "acurrucar":{
+      "frases":["**{author}** se acurruca con **{mention}**",
+      "**{author}** le da cariño a **{mention}**"],
+      "gifs":["https://media.tenor.com/images/21c0c48fe94e9f0f0ebe0e1328638cc3/tenor.gif",
+      "https://media1.tenor.com/images/8f8ba3baeecdf28f3e0fa7d4ce1a8586/tenor.gif?itemid=12668750",
+      "https://media.tenor.com/images/1fe47ce1ea29dfcaba48488abafaa471/tenor.gif",
+      "https://media1.tenor.com/images/7edded2757934756fdc240019d956cb3/tenor.gif?itemid=16403937",
+      "https://i.pinimg.com/originals/d8/7c/5c/d87c5cdd0a68caf2b6feeec0f7da7315.gif",
+      "https://thumbs.gfycat.com/PoliticalCrazyFlycatcher-max-1mb.gif",
+      "https://media.tenor.com/images/735539df8adc6335bcf9b03695bfc098/tenor.gif",
+      "https://thumbs.gfycat.com/RealWearyAfricanporcupine-size_restricted.gif",
+      "https://mrwgifs.com/wp-content/uploads/2013/04/Snuggling-Cuddling-Anime-Girls-Gif-.gif",
+      "https://i.pinimg.com/originals/c5/1d/8a/c51d8a4505e1dfef709efd4739d09faa.gif",
+      "https://cdn.lowgif.com/full/ce0f46a8defe7fd3-snuggle-anime-gif-7-gif-images-download.gif",
+      "https://media1.tenor.com/images/3b205574d0352d4d61687f835276566d/tenor.gif?itemid=12669039",
+      "https://i.pinimg.com/originals/51/b3/fe/51b3fe2d234e0bc6a77f401a3818c843.gif",
+      "https://i.imgur.com/51Q4oAg.gif",
+      "https://media1.tenor.com/images/4eb393815b38a3c6123e3b71a0dc5b1b/tenor.gif?itemid=12668879",
+      "https://i.kym-cdn.com/photos/images/newsfeed/000/987/510/f81.gif"]
+    },
+    "presumir":{
+      "frases":["**{author}** presume su suerte",
+      "**{author}** se presume a si mismo"],
+      "gifs":[
+        "https://media1.tenor.com/images/6fcfbab36f6d2c578abd6228d1e74231/tenor.gif?itemid=9810121",
+        "https://media1.tenor.com/images/9e77553ccfb2e6d1f416ee75a956c2c4/tenor.gif?itemid=12795134",
+        "https://media1.tenor.com/images/906bbc85a7820f68a7fc658aeeceb069/tenor.gif?itemid=10195728",
+        "https://i.pinimg.com/originals/69/52/d0/6952d04e99d127b70d367a20e23864d4.gif",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/087/562/93c.gif",
+        "https://i.kym-cdn.com/photos/images/original/000/930/862/f1a.gif",
+        "https://media1.tenor.com/images/ca9adeb8e53c5fa7e3c705ea60df2f14/tenor.gif?itemid=15157933",
+        "https://64.media.tumblr.com/0cf5b8479cc687456e29e23287910445/tumblr_p1edjjqx7m1wn2b96o1_400.gifv",
+        "https://i.pinimg.com/originals/9c/fb/9c/9cfb9c08f59bf73e6ab3a8489f59e0d9.gif",
+        "https://steamuserimages-a.akamaihd.net/ugc/822313860013003060/A78582EDF025EE6C1B8563C3402315DEF506D9BF/",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/223/569/12b.gif",
+        "https://media1.tenor.com/images/aa6d975cb5318886db35f27f692d09d3/tenor.gif?itemid=14495461",
+        "https://thumbs.gfycat.com/TidyJubilantGalapagospenguin-size_restricted.gif",
+        "https://i.imgur.com/98rrjiW.gif",
+        "https://thumbs.gfycat.com/TalkativePortlyEel-small.gif"
+      ]
+        
+    },
+    "spooky":{
+      "frases":["**{author}** hace el spooky dance!", "**{author}** celebra el spooky month (mes espeluznante)!"],
+      "frases2":["**{author}** hace el spooky dance con **{mention}**!",
+      "**{author}** y **{mention}** celebran el spooky month (mes espeluznante)!"],
+      "gifs":["https://thumbs.gfycat.com/UnitedSpiffyGilamonster-size_restricted.gif",
+      "https://media.tenor.com/images/863516c57095de4e5425a77d83db0d6b/tenor.gif",
+      "https://thumbs.gfycat.com/InsidiousFabulousAquaticleech-size_restricted.gif",
+      "https://pa1.narvii.com/7002/094080167ac59dfd5fbfd15fb636621ecb931b6fr1-482-538_hq.gif",
+      "https://thumbs.gfycat.com/LinedWellgroomedAustrianpinscher-size_restricted.gif",
+      "https://media1.tenor.com/images/3027b56e2010e037bc11876eefdcfa46/tenor.gif?itemid=15018642",
+      "https://64.media.tumblr.com/2f7613c9ed03872a6aab76578bda45e5/653eb9a234525462-90/s640x960/be7a0b536db323a4f61c70fdd598291dd8d8c733.gif"]
+    },
+    "fbi":{
+      "gifs":["https://media1.tenor.com/images/eccf4ce7780a2e6749bfe607e1c9635c/tenor.gif?itemid=14295238",
+      "https://i.pinimg.com/originals/12/13/29/1213293a27c9f84df14051cf37510b41.gif",
+      "https://thumbs.gfycat.com/OldfashionedFantasticDiplodocus-size_restricted.gif",
+      "https://media2.giphy.com/media/kxevHLcRrMbtC1SXa8/giphy.gif"],
+      "frases":["El FBI viene por **{mention}**", "ABRA LA PUERTA! Venimos por **{mention}**"]
+    }
+    
+  }
+}

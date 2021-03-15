@@ -1,0 +1,21 @@
+{
+"install": {
+  "include": [
+    "^package\\.json$",
+    "^\\.env$"
+  ]
+},
+
+"restart": {
+  "exclude": [
+    "^public/",
+    "^dist/"
+  ],
+
+  "include": [
+    "\\.js$",
+    "\\.json"
+  ]
+},
+"throttle": 150000
+}//Para que no se ande actualizando a cada rato y evitar baneo por chingos de requests

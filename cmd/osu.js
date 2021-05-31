@@ -11,19 +11,39 @@ module.exports.run = async (client, message, args, numero, prefix) => {
   if(!options[0]) return message.channel.send("❌ | Selecciona un modo <std/mania/taiko/ctb>.")
   if(!options[1]) return message.channel.send("❌ | Incluye el usuario que quieras buscar")
   let md;
-  if(options[0] === "std") {md = 0} else
-  if(options[0] === 'taiko') {md = 1} else
-  if(options[0] === 'ctb') {md = 2} else
-  if(options[0] === 'mania') {md = 3} else
-  {return; message.channel.send("❌ | Modo de juego invalido")}
+   switch(options[0])
+     case "std":
+     md = 0
+     break
+     case "taiko":
+     md = 1
+     break
+     case "ctb":
+     md = 2
+     break
+     case "mania":
+     md = 3
+     break
+     default:
+     return message.channel.send("❌ | Modo de juego invalido")
+     break
   
   
   api.getUser({u: options[1], m: md}).then(user =>{
     let titlem;
-    if (md === 0) titlem = "osu!standard"
-    if (md === 1) titlem = "osu!taiko"
-    if (md === 2) titlem = "osu!ctb (Catch The Beat)"
-    if (md === 3) titlem = "osu!mania"
+    switch(md)
+      case 1:
+        titlem = "osu!taiko"
+        break
+      case 2:
+        titlem = "osu!ctb"
+        break
+      case 3:
+        titlem = "osu!mania"
+        break
+      default:
+        titlem = "osu!standard"
+        break
     
     
     const embed = new Discord.MessageEmbed()

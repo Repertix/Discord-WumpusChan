@@ -1,5 +1,8 @@
 # Wumpus Chan
 
+#WARNING
+<h6>Wumpus chan was originally developed in spanish. So almost all the code has Spanish language.<h6>
+
 You can keep with the original assets, Wumpus is no more. 🦀🦀🦀
 
 <h6>How to install?<h6>

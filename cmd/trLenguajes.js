@@ -1,5 +1,6 @@
 const Discord = require('discord.js')
 const config = require("../config.json")
+//This command is pretty stupid, recommended to just add the languages link in the principal one than doing a entire command for this.
 module.exports.run = async (client, message, args, numero, prefix) => {
   const embed = new Discord.MessageEmbed()
   .setTitle("Lenguajes Disponibles")

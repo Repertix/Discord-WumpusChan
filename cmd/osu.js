@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const config = require("../config.json")
 const osu = require('node-osu')
-const api = new osu.Api('a07ff6f38d977575e967c53933ba2c6b6fada5fc',{
+const api = new osu.Api('API-TOKEN',{
   notFoundAsError: true, // Reject on not found instead of returning nothing. (default: true)
     completeScores: false
 })

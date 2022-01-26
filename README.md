@@ -9,7 +9,7 @@ Wumpus is no more. 🦀🦀🦀
 
 Requirements 
 * Install (`NodeJS`)[https://nodejs.org/es/download/]
-* Install any code editor (Recommended: Visual Studio)
+* Install any code editor (Recommended: Visual Studio Code 2019)
 
 1. Install all the dependencies used in the code (If you want, you can just remove quick.db, that was just used for nothing, literally, lol).
 

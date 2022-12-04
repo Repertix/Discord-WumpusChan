@@ -33,7 +33,4 @@ Replace token information in config.json to your bot's token!
 * Type `node index.js`
 
 And done! Your bot must be working! Good luck and enjoy your first bot!
-
-I recommend to host it on Repl.It
-
 If you use this for any purpose, keep the code open, pls!

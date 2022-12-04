@@ -1,3 +1,6 @@
+#Deprecated
+I don't know why, but DiscordJS has changed a lot so this thing now is nothing but a cool programming wallpaper because everything in here is now pretty deprecated so DON'T USE THIS.
+
 # Wumpus Chan
 
 #WARNING

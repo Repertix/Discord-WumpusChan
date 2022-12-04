@@ -3,7 +3,7 @@ I don't know why, but DiscordJS has changed a lot so this thing now is nothing b
 
 # Wumpus Chan
 
-# WARNING
+WARNING:
 <h6>Wumpus chan was originally developed in spanish. So almost all the code has Spanish language.<h6>
 
 Wumpus is no more. 🦀🦀🦀
